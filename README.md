@@ -5,4 +5,4 @@
 2. [_My Resume_](Resume.md)
 3. [_My LinkedIn_](MyLinkedin.md)
 4. [_My Hometown_](Hometown.md)
-5. [_My Program_](fizzBuzz.html)
+5. [_My Program_](fizzbuzz.html)
