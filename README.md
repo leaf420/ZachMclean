@@ -1,2 +1,3 @@
 # ZachMclean
-<p>Hi, my name is Zach Mclean</p>
+## About Me
+> My name is **Zach Mclean** and my major is Information Technology
